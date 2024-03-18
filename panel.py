@@ -1,30 +1,3 @@
-Skip to content
-Xlinux444
-/
-PANEL-DDOS
-
-Type / to search
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Commit
-Update menuTools.py
- main
-@Xlinux444
-Xlinux444 committed 3 hours ago 
-1 parent aa74faf
-commit c4cffaa
-Showing 1 changed file with 3 additions and 379 deletions.
- 382 changes: 3 additions & 379 deletions382  
-menuTools.py
-@@ -1,380 +1,4 @@
 import subprocess
 import time
 import sys
